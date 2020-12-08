@@ -1,0 +1,42 @@
+header {
+    background-color: green;
+}
+body {
+    text-align: center;
+    background-color: yellow;
+    border: 200px solid red;
+    border-radius: 50%;
+}
+.skills {
+    font-size: 15px; 
+    font-weight: inherit;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+img {
+    border-radius: 30%;
+    
+}
+.interest {
+font-style: normal;
+
+}
+ h3,h4 {background-color: orange;
+}
+#me {
+    background-color: deeppink;
+}
+.un {
+    background-color: crimson;
+}
+.love {
+font-size: 20px;
+font-style: initial;
+ background-color: lawngreen;
+ text-decoration: underline;
+ text-decoration-color: mediumblue;
+ border: 5px solid red;
+ margin-bottom: 30;
+ border-radius: 40%;
+}
